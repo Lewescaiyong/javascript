@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel= "png" href= "../icons/accept.png" type= "image/x-png"/>
+		<link rel= "shortcut png" href= "../icons/accept.png" type= "image/x-png"/>
+		<link rel= "stylesheet" href= "../css/tab.css" type= "text/css" />
+	</head>
+	<body>
+		<div class= "web">
+			<div class= "Tab">
+				<div class= "Tab_Name01">
+					<span><strong>合同管理</strong></span>
+				</div>
+				<div class= "Tab_Name00">
+					<span><strong title= "案件管理[处理-天还是那么蓝08]">案件管理[处理..</strong></span>
+				</div>
+				<div class= "Tab_Name01">
+					<span><strong>案件管理</strong></span>
+				</div>
+				<div class= "Tab_Name01">
+					<span><strong>年费监控</strong></span>
+				</div>
+			</div>
+				<iframe id= "iframe01" src="detail.html">
+			  </iframe> 
+		</div>
+	</body>
+</html>

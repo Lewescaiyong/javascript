@@ -1,0 +1,29 @@
+.web {
+	font-family:"Microsoft YaHei"
+	}
+.Tab {
+	height:45px;
+	background:#c5c9cd;
+	margin:5px 0;padding:5px 5px;
+	}
+.Tab_Name00 {
+	height:25px;
+	border-top:1px solid #000;
+	border-right:1px solid #000; 
+	border-bottom:0px solid #000;
+	border-left:1px solid #000;
+	background:#FFFFFF;
+	margin:12px 0 0;
+	padding:5.5px 5px;
+	float:left;
+	}
+.Tab_Name01 {
+	height:25px;
+	margin:12px 10px 0;
+	padding:5.5px 5px;
+	float:left;
+	}
+	#iframe01 {
+		border:none;
+		position:fixed;
+		}

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction()
+{
+document.getElementById("呵呵").innerHTML="明天加班-_-";
+}
+</script>
+</head>
+
+<body>
+
+<h1 align="center">今天星期五</h1>
+
+<p id="呵呵" align="center">告诉你一个好消息</p>
+
+<button type="button" onclick="myFunction()">点击这里</button>
+
+<a href="http://patent.test.chofn.net/">
+This is a link</a>
+
+</body>
+</html>

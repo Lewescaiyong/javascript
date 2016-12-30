@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel= "icon" href= "../icon/heart.ico" type= "image/x-icon"/>
+	<link rel= "shortcut icon" href= "../icon/heart.ico" type= "image/x-icon"/>
+	<link rel= "stylesheet" href= "../css/blog-lovelife.css" type= "text/css" />
+</head>
+<body>
+<div class= "blog_homepage">
+	<div class= "blog_head">
+		<div class= "blog_head_left">
+			<div class= "blog_head_left_cotent01">
+				<div class= "blog_head_left_content01_name">
+					<span><strong>夕阳 西下</strong></span>
+				</div>
+				<div class= "blog_head_left_cotent01_content">
+					<span>相遇，是一种美丽，像一座小城向晚，映着夕阳的绚烂。</span>
+				</div>
+			</div>
+			<div class= "blog_head_left_cotent02">
+				<div class= "blog_head_left_content02_float01">
+					<a href= "blog_homepage.html">网站首页</a>
+				</div>
+				<div class= "blog_head_left_content02_float02">
+					<a href= "blog_lovelife.html">爱生活</a>
+				</div>
+				<div class= "blog_head_left_content02_float02">
+					<span>技术探讨</span>
+				</div>
+				<div class= "blog_head_left_content02_float02">
+					<span>碎言碎语</span>
+				</div>
+				<div class= "blog_head_left_content02_float02">
+					<span>留言板</span>
+				</div>
+				<div class= "clear"></div>
+			</div>
+		</div>
+		<div class= "blog_head_right"></div>
+		<div class= "clear"></div>
+	</div>
+	<div class= "blog_content">
+		<div class= "blog_content_left">
+			<div class= "blog_content_left_box">
+				<div class= "blog_content_left_box_name">
+					<span>感觉</span>
+				</div>
+				<div class= "blog_content_left_box_content01">
+					<pre>天是灰色的
+路是灰色的
+楼是灰色的
+雨是灰色的
+
+在一片死灰中
+走过两个孩子
+一个鲜红
+一个淡绿
+					</pre>
+				</div>
+			</div>
+		</div>
+		<div class= "blog_content_right">
+			<div class= "blog_content_right_box">
+				<div class= "blog_content_right_box_name">
+					<span>个人档案</span>
+				</div>
+				<div class= "blog_content_right_box_content01">
+					<span>中文名：蔡勇</span>
+				</div>
+				<div class= "blog_content_right_box_content01">
+					<span>英文名：Lewes</span>
+				</div>
+				<div class= "blog_content_right_box_content01">
+					<span>网 名：风轻拂潇雨纷飞</span>
+				</div>
+				<div class= "blog_content_right_box_content01">
+					<span>位 置：四川省-成都市-高新区</span>
+				</div>
+				<div class= "blog_content_right_box_content01">
+					<span>职 业：软件测试</span>
+				</div>
+			</div>
+			<div class= "blog_content_right_box">
+				<div class= "blog_content_right_box_name">
+					<span>博客分类</span>
+				</div>
+				<div class= "blog_content_right_box_content02">
+					<ul><li>爱生活</li></ul>
+				</div>
+				<div class= "blog_content_right_box_content02">
+					<ul><li>程序人生</li></ul>
+				</div>
+				<div class= "blog_content_right_box_content02">
+					<ul><li>经典美文</li></ul>
+				</div>
+			</div>
+			<div class= "blog_content_right_box">
+				<div class= "blog_content_right_box_name">
+					<span>近期文章</span>
+				</div>
+				<div class= "blog_content_right_box_content02">
+					<ul><li>魂牵梦绕的地方</li></ul>
+				</div>
+			</div>
+			<div class= "blog_content_right_box">
+				<div class= "blog_content_right_box_name">
+					<span>文章归档</span>
+				</div>
+				<div class= "blog_content_right_box_content02">
+					<ul><li>2016 年三月</li></ul>
+				</div>
+				<div class= "blog_content_right_box_content02">
+					<ul><li>2016 年五月</li></ul>
+				</div>
+				<div class= "blog_content_right_box_content02">
+					<ul><li>2016 年十月</li></ul>
+				</div>
+			</div>
+			<div class= "blog_content_right_box">
+				<div class= "blog_content_right_box_name">
+					<span>友情链接</span>
+				</div>
+				<div class= "blog_content_right_box_content01">
+					<a href= "http://patent.test.chofn.net/" target="_blank">专利订单系统</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+</body>
+</html>

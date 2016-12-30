@@ -1,0 +1,130 @@
+.blog_homepage {
+	width: 100%;
+	overflow:hidden;
+	border:0px solid #000;
+	font-family:"Microsoft YaHei";
+	font-size:14px;
+	background:wheat;
+	background:url(../icon/head.jpg) no-repeat;
+	background-size:cover;
+	}
+.blog_head {
+	border:0px solid #000;
+	}
+.blog_head_left{
+	width:98%;
+	border:0px solid #000;
+	float:left;
+	}
+.blog_head_left_cotent01 {
+	border:0px solid #000;
+	}
+.blog_head_left_content01_name {
+	border:0px solid #000;
+	font-family:"华文行楷";
+	font-size:28px;
+	padding:40px 0 0 80px;
+	}
+.blog_head_left_cotent01_content {
+	border:0px solid #000;
+	padding:5px 0 0 80px;
+	}
+.blog_head_left_cotent02 {
+	border:0px solid #000;
+	}
+.blog_head_left_content02_float01 {
+	border:0px solid #000;
+	font-family:"华文行楷";
+	font-size:20px;
+	padding:20px 0 0 130px;
+	float:left;
+	}
+.blog_head_left_content02_float02 {
+	border:0px solid #000;
+	font-family:"华文行楷";
+	font-size:20px;
+	padding:20px 0 60px 25px;
+	float:left;
+	}
+.blog_head_right{
+	width:1%;
+	height:200px;
+	border:0px solid #000;
+	float:right;
+	/*background:url(../icon/head_right.jpg) no-repeat right;*/
+	}
+.blog_content {
+	border:0px solid #000;
+	margin:0 80px;
+	}
+.blog_content_left {
+	width:70%;
+	border:0px solid #000;
+	/*background:white;*/
+	float:left;
+	}
+.blog_content_left_box {
+	border:0px solid #000;
+	}
+.blog_content_left_box_name {
+	padding:10px 0;
+	border:0px solid #000;
+	font-family:"华文行楷";
+	font-size:20px;
+	text-align:center;
+	}
+.blog_content_left_box_content01 {
+	padding:0 0 0 30px;
+	border:0px solid #000;
+	font-family:"华文行楷";
+	font-size:18px;
+	margin:0 auto;
+	width:150px;
+	}  
+.blog_content_left_box_content02 {
+	padding:0 0 0 30px;
+	border:0px solid #000;
+	font-family:"华文行楷";
+	font-size:20px;
+	margin:0 auto;
+	width:150px;
+	} 
+.blog_content_right {
+	width:29%;
+	border:0px solid #000;
+	float:right;
+	}
+.blog_content_right_box {
+	border:0px solid #000;
+	}
+.blog_content_right_box_name {
+	padding:10px 0;
+	border:0px solid #000;
+	font-family:"华文行楷";
+	font-size:20px;
+	color:white;
+	text-align:center;
+	background:black;
+	}
+.blog_content_right_box_content01 {
+	padding:15px 0 0 30px;
+	border:0px solid #000;
+	}
+.blog_content_right_box_content02 {
+	padding:15px 0 0 5px;
+	border:0px solid #000;
+	}
+.clear {
+	clear:both;
+	}
+.blog_content_right_box_content01 a {
+	text-decoration:none;
+	}
+.blog_head_left_content02_float01 a {
+	color:black;
+	text-decoration:none;
+	}
+.blog_head_left_content02_float02 a {
+	color:black;
+	text-decoration:none;
+	}

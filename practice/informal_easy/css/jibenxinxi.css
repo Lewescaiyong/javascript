@@ -1,0 +1,92 @@
+.web {
+	font-family:"Microsoft YaHei"
+	}
+.float_top{
+	border:solid 0 #000;
+	font-size:12px;
+	}
+.float{
+	height:25px;
+	margin:10px 6px;
+	float:left;
+	padding:1px 1px;
+	}
+.web_form01 {
+	width=50%;
+	height:25px;
+	float:left;
+	padding:10px 10px;
+	margin:10px 190px;
+	}                          
+.web_form02 {
+	width=50%;
+	height:25px;
+	float:left;
+	padding:10px 10px;
+	margin:10px 10px;
+	}
+.web_form03 {
+	width=50%;
+	height:25px;
+	float:left;
+	padding:10px 12px;
+	margin:10px 225px;
+	}                          
+.web_form04 {
+	width=50%;
+	height:25px;
+	float:left;
+	padding:10px 3px;
+	margin:10px 0;
+	}
+.web_form05 {
+	width=50%;
+	height:25px;
+	float:left;
+	padding:10px 3px;
+	margin:10px 5px 15px 230px;
+	}
+.web_form06 {
+	width=50%;
+	height:25px;
+	float:left;
+	margin:10px 5px 5px 5px;
+	}
+.data00	 {
+	width=80%;
+	height:75px;
+	border:solid 0px #000;
+	margin:15px 5px;
+  }
+.data	 {
+	width=80%;
+	height:300px;
+	border-top:1px solid #000;
+	border-right:0px solid #000; 
+	border-bottom:0px solid #000;
+	border-left:0px solid #000;
+	border-style:dashed;
+	margin:15px 5px;
+	}  
+#SXBZ {
+	line-height: 30px;
+	}
+#textarea {
+	width:600px;
+	height:50px;
+	margin:10px 5px;
+	}
+#fontsize{
+	font-size:15px;
+	margin-left:200px;
+	}
+#zhuanli00{
+	margin-left:330px;
+	margin-top:0px;
+	}
+#zhuanli01{
+	margin-top:0px;
+	}
+#select {
+	width:147px;
+	}
