@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head lang="zh-CN">
+	<meta charset="UTF-8">
+	<title>Hello world jQuery</title>
+	<style>
+		.top {
+			width: 500px;
+			overflow: hidden;
+			font-size: 18px;
+			border:0px solid #000;
+		}
+		.left {
+			width: 40%;
+			float: left;
+			border:0px solid #000;
+		}
+		.left_content {
+			height: 36px;
+		}
+		.right {
+			width: 40%;
+			float: right;
+			background: gray;
+			border:0px solid #000;
+			display: none;
+		}
+		.right_content {
+			text-align:center;
+			padding: 10px 0;
+		}
+	</style>
+	<script src="../js/jquery-3.1.1.js"></script>
+	<script>
+		$(document).ready(function () {
+			$("#my_input").focus(function () {
+				$("#my_div").show();
+			});
+		});
+	</script>
+</head>
+<body>
+<div class="top">
+	<div class="left">
+		<input type="text" class="left_content" id="my_input">
+	</div>
+	<div class="right" id="my_div">
+		<div class="right_content">验证码</div>
+	</div>
+</div>
+</body>
