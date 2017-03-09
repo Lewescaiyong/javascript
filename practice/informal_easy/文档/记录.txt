@@ -1,0 +1,8 @@
+js技术：
+http://www.cnblogs.com/axl234/p/5756837.html
+
+指定创建DIV位置：
+https://zhidao.baidu.com/question/1702700133910190220.html
+
+jQ api:
+http://tool.oschina.net/apidocs/apidoc?api=jquery
